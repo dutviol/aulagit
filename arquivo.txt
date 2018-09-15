@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Minha primeira alteração no projeto
 
 Outra alteração.
 
 Alterando outra linha
-=======
-Minha primeira alteração no projeto
->>>>>>> parent of a16cdbd... Incluir segunda linha do arquivo
+
