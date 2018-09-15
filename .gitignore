@@ -1,0 +1,6 @@
+ignorado.txt
+*.exe
+.config
+thumbs.db
+.DS_Store
+.directory
